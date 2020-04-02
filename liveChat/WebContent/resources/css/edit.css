@@ -1,0 +1,32 @@
+#edit-text {
+    background: black !important;
+    opacity: 0.9;
+    font-size: 18px;
+    color: white;
+}
+.ftco-subscribe-1:before {
+    position: absolute;
+    content: "";
+    background: #071800 !important;
+    opacity: .7;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.footer {
+    /* padding: 4rem 0; */
+    background: #000000 !important;
+    font-size: 14px;
+    color: #fff;
+}
+.footer .copyright {
+    color: #fff;
+    padding-top: 1.5rem !important;
+    text-align: center;
+}

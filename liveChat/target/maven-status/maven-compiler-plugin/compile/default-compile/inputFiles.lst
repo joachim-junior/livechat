@@ -1,0 +1,11 @@
+/home/joakim/Eworkspace/liveChat/src/com/controller/ClientController.java
+/home/joakim/Eworkspace/liveChat/src/com/configuration/WebAppInitializer.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/Clients.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/ClientService.java
+/home/joakim/Eworkspace/liveChat/src/com/configuration/WebMvcConfig.java
+/home/joakim/Eworkspace/liveChat/src/com/configuration/JpaConfig.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/StaticPagesController.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/AdminController.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/HomeController.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/ClientRepository.java
+/home/joakim/Eworkspace/liveChat/src/com/controller/LoginController.java

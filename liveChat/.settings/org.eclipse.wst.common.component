@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="liveChat-0.0.1-SNAPSHOT">
+                
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent/WEB-INF/views"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent/resources/css"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent/resources/js"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent/resources/images"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent/resources/fonts"/>
+                
+        <wb-resource deploy-path="/" source-path="/WebContent/resources/scss"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/resources"/>
+                
+        <property name="context-root" value="liveChat"/>
+                
+        <property name="java-output-path" value="/liveChat/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
